@@ -1,0 +1,24 @@
+body{  background-color: rgb(14, 7, 7);
+    border: red solid 2px;
+ border-width: 200px;
+text-align: center;
+}
+p{ min-width: auto 
+    height:auto ;
+    color: brown;
+    width: 75px;
+
+}
+.one , .two , .three{
+    text-align: center;
+   padding-left: 50%;
+}
+.one{
+    color: yellow;
+}
+.two{
+    color:blue
+}
+.three{
+    color: darkkhaki;
+}
